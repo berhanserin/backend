@@ -29,6 +29,6 @@ Delete isteğinde alınan cevap
 =====================================
 ![](https://github.com/Berhan123/backend/blob/master/picture/delete.png)
 
-Put isteğinde alınan cevao
+Put isteğinde alınan cevap
 ======================================
 ![](https://github.com/Berhan123/backend/blob/master/picture/put1.png)
