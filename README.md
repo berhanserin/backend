@@ -1,6 +1,7 @@
 # herokuapp üzerinden basit bir todolist api 
 
 - Backend için basit json datasından crud işlemleri yapan bir arka plan hazırladım.
+- Eklenilen datalar `https://github.com/Berhan123/backend/blob/master/data/data.json` dosyasına kaydediliyor. Örnek bir testler için data eklendi. Örnek id'si `484702e4-36d0-420e-bee0-4a4ef097dd6f`
 
 Api base url: `https://todo-list-api-backend.herokuapp.com`
 
