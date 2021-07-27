@@ -1,7 +1,6 @@
 const { v4: uuidv4 } = require("uuid");
 const express = require("express");
 const app = express();
-const importData = require("./data.json");
 const db = require("./data/data.json");
 const bodyParser = require("body-parser");
 
